@@ -1,0 +1,15 @@
+====== Stroke Detection Report ======
+
+Selected Image: desert.png
+
+Stroke Risk Score: 18.59%
+Diagnosis: Moderate Stroke
+
+--- Analysis Summary ---
+The system analyzed symmetry between left and right brain hemispheres.
+Significant intensity differences indicate abnormal regions.
+
+--- Conclusion ---
+Based on asymmetry analysis, the case is classified as: Moderate Stroke
+
+Note: This is a computer-aided estimation, not a medical diagnosis.
